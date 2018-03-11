@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Raleway:300,400,600,800');
+@import url('https://fonts.googleapis.com/css?family=Raleway:300,400,500,600,800');
 @import url("http://fonts.googleapis.com/css?family=Source+Sans+Pro:300,900");
 
 html,
@@ -55,7 +55,7 @@ iframe{
   border-bottom-left-radius: 0;
 }
 .form-signin input[type="password"] {
-  margin-bottom: 10px;
+  /* quite margen*/
   border-top-left-radius: 0;
   border-top-right-radius: 0;
 }
@@ -132,3 +132,60 @@ padding-top: 75px;
 padding-top: 1px;
     padding-bottom: 7px;
 }
+
+
+/* aqui mero yop*/
+
+.form-signin .form-control {
+    position: relative;
+    box-sizing: border-box;
+    height: auto;
+    padding: 15px;
+    font-size: 14px;
+    background-color: #CCCCCC;
+}
+
+.TxtHola {
+margin-top: 100px;
+    margin-bottom: 40px;
+  }
+
+ .navbar-form .form-control {
+    background-color: #424242;
+  }
+
+  .CreateAccont .form-control
+  {
+       
+       background-color: #424242;
+    border:none;
+    box-shadow: none;
+        border-radius: 0px;
+    border-width: 2px;
+  }
+
+  .form-signin input[type="password"] {
+  margin-bottom: 0 px;
+}
+
+.CreateAccont .form-group .input-group {
+    position: relative;
+    display: table;
+    border-collapse: separate;
+    border-style: solid;
+    border-color: white;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    margin-bottom: 20px;
+}
+.CreateAccont .input-group-addon{
+border-left: 0;
+    background-color: #424242;
+    border: none;
+  }
+
+  .navbar-inverse .navbar-nav>li>a
+  {
+
+  }
