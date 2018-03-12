@@ -171,3 +171,20 @@ body {
   background-color: #424242;
   border: none;
 }
+
+.noteTitle{
+  text-align: center;
+}
+
+.interaction{
+  width: 100%;
+}
+
+.interaction .btn
+{
+  display: block;
+}
+
+.col-md-3{
+  margin-bottom: 10px;
+}
